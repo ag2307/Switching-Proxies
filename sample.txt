@@ -1,0 +1,2 @@
+sudo sed -i 's/:\/\/.*/:\/\/username:password\@host:port\/\"\;/g' /etc/apt/apt.conf;
+sudo sed -i 's/:\/\/.*/:\/\/username:password\@host:port\"/g' /etc/bash.bashrc;
