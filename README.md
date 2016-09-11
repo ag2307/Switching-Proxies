@@ -14,5 +14,4 @@
 You are done !!
 
 Now to change the internal proxy anytime just go to the directory containing the .txt file and open it by `./filename.extension` .Type 
-
 your system password and then proxy is changed. 
