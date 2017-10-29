@@ -1,5 +1,5 @@
 # Switching-Proxies
-###Switch proxies in ubuntu system quickly just by one key-press.
+### Switch proxies in ubuntu system quickly just by one key-press.
 
 1. Make a file similar to the sample.txt replacing only your proxy settings in it. (Try to make the file in home directory so that u can   avoid the cd commands while changing directories in terminal for further steps.)
 
