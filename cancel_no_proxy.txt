@@ -1,0 +1,8 @@
+sudo sed -i 's/#Acquire/Acquire/g' /etc/apt/apt.conf;
+sudo sed -i 's/#export/export/g' /etc/bash.bashrc;
+sudo sed -i 's/#http_proxy/http_proxy/g' /etc/environment;
+sudo sed -i 's/#ftp_proxy/ftp_proxy/g' /etc/environment;
+sudo sed -i 's/#https_proxy/https_proxy/g' /etc/environment;
+sudo sed -i 's/#HTTP_proxy/HTTP_proxy/g' /etc/environment;
+sudo sed -i 's/#HTTPS_proxy/HTTPS_proxy/g' /etc/environment;
+sudo sed -i 's/#FTP_proxy/FTP_proxy/g' /etc/environment;
